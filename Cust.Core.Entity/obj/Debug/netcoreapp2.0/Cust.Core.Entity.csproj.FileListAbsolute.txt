@@ -1,9 +1,0 @@
-\\Mac\Home\Documents\work\core\CustomerApp_2018\Cust.Core.Entity\bin\Debug\netcoreapp2.0\Cust.Core.Entity.deps.json
-\\Mac\Home\Documents\work\core\CustomerApp_2018\Cust.Core.Entity\bin\Debug\netcoreapp2.0\Cust.Core.Entity.dll
-\\Mac\Home\Documents\work\core\CustomerApp_2018\Cust.Core.Entity\bin\Debug\netcoreapp2.0\Cust.Core.Entity.pdb
-\\Mac\Home\Documents\work\core\CustomerApp_2018\Cust.Core.Entity\obj\Debug\netcoreapp2.0\Cust.Core.Entity.csproj.CoreCompileInputs.cache
-\\Mac\Home\Documents\work\core\CustomerApp_2018\Cust.Core.Entity\obj\Debug\netcoreapp2.0\Cust.Core.Entity.AssemblyInfoInputs.cache
-\\Mac\Home\Documents\work\core\CustomerApp_2018\Cust.Core.Entity\obj\Debug\netcoreapp2.0\Cust.Core.Entity.AssemblyInfo.cs
-\\Mac\Home\Documents\work\core\CustomerApp_2018\Cust.Core.Entity\obj\Debug\netcoreapp2.0\Cust.Core.Entity.dll
-\\Mac\Home\Documents\work\core\CustomerApp_2018\Cust.Core.Entity\obj\Debug\netcoreapp2.0\Cust.Core.Entity.pdb
-\\Mac\Home\Documents\work\core\CustomerApp_2018\Cust.Core.Entity\obj\Debug\netcoreapp2.0\Cust.Core.Entity.csprojAssemblyReference.cache
